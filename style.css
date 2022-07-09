@@ -1,0 +1,11 @@
+table {
+    display: grid;
+    place-items: center;
+}
+th,td{
+    border: #29D9D5 solid 3px;
+    padding: 1em;
+}
+h1,h2 {
+ border-color: color: #29D9D5;
+}
